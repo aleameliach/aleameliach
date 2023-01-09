@@ -22,7 +22,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>&nbsp;
 </div>
 
-- 📫 How to reach me:
+<h2> 📫 How to reach me: </h2>
 
 <!--
 **aleameliach/aleameliach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
