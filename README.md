@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-Having a curious and restless mind made me take the path of coding. I’m now a *junior Front-End Developer* with avid experience in social media and a passion for design and color.  
+Having a curious and restless mind made me take the path of coding. I’m now a **junior Front-End Developer👩🏻‍💻** with avid experience in social media and a passion for design and color.  
 
 <h2>
   :hammer_and_wrench: Languages and Tools :
