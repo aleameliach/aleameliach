@@ -9,7 +9,7 @@ Having a curious and restless mind made me take the path of coding. I’m now a 
 - 🔭 I’m working on an app that matches you and your perfect rescue pup🐶 or kitten🐱
 - 🔎 I’m looking for a job in web development.
 - 🌱 I’m currently improving my ReactJS skills.
-- 📫 How to reach me:[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aleameliach) [![Gmail Badge](https://img.shields.io/badge/-Gmail-white?style=flat&logo=Gmail&logoColor=red)](mailto:ale.ameliach@gmail.com)
+- 📫 How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aleameliach) [![Gmail Badge](https://img.shields.io/badge/-Gmail-white?style=flat&logo=Gmail&logoColor=red)](mailto:ale.ameliach@gmail.com)
 
 
 
@@ -33,17 +33,3 @@ Having a curious and restless mind made me take the path of coding. I’m now a 
 </div>
 
 
-<!--
-**aleameliach/aleameliach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
