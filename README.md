@@ -5,11 +5,12 @@
 
 Having a curious and restless mind made me take the path of coding. I’m now a **Junior Front-End Developer👩🏻‍💻** with avid experience in social media and a passion for design and color. I've just finished an intense coding bootcamp and I'm looking for new projects and a new job within this new path.  
   
--   🥳 I’ve just graduated for Adalab's Web Development Bootcamp.
+- 🥳 I’ve just graduated for Adalab's Web Development Bootcamp.
 - 🔭 I’m working on an app that matches you and your perfect rescue pup🐶 or kitten🐱
 - 🔎 I’m looking for a job in web development.
 - 🌱 I’m currently improving my ReactJS skills.
 - 📫 How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aleameliach) [![Gmail Badge](https://img.shields.io/badge/-Gmail-white?style=flat&logo=Gmail&logoColor=red)](mailto:ale.ameliach@gmail.com)
+- ⚡️ Fun fact: I speak Spanish, English and French 🇪🇸🇬🇧🇫🇷
 
 
 
