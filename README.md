@@ -45,5 +45,32 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" alt="Slack" width="50" height="50"/>&nbsp;
 </div>
 
+<h2>
+  :hammer_and_wrench: My Stats :
+</h2>
+  
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleameliach&hide=HTML,G-code,scss,css,objective-c,roff,tex,makefile&theme=radical&langs_count=8" alt="Top Langs"/>
+</a>
+  
+<br>
+  
+
+  
+<br>
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aleameliach&theme=radical&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
+  
+<br>
+  
+
+  
+<br>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aleameliach&theme=radical&show_icons=true&hide=stars,prs" alt="Ale's GitHub stats"/>
+</a>
+</div>
+
 
 
