@@ -46,7 +46,7 @@
 </div>
 
 <h2>
-  :hammer_and_wrench: My Stats :
+  📊 My Stats :
 </h2>
   
 
