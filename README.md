@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<font size=”22”>Having a curious and restless mind made me take the path of coding. I’m now a **Junior Front-End Developer👩🏻‍💻** with avid experience in social media and a passion for design and color. I've just finished an intense coding bootcamp and I'm looking for new projects and a job within this new path.  
+<font size=”2”>Having a curious and restless mind made me take the path of coding. I’m now a **Junior Front-End Developer👩🏻‍💻** with avid experience in social media and a passion for design and color. I've just finished an intense coding bootcamp and I'm looking for new projects and a job within this new path.  
   
 - 🥳 I’ve just graduated for Adalab's Web Development Bootcamp.
 - 🔭 I’m working on an app that matches you with a rescue pup🐶 or kitten🐱
@@ -11,7 +11,7 @@
 - 🌱 I’m currently improving my ReactJS skills.
 - 📫 How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aleameliach) [![Gmail Badge](https://img.shields.io/badge/-Gmail-white?style=flat&logo=Gmail&logoColor=red)](mailto:ale.ameliach@gmail.com)
 - ⚡️ Fun fact: I speak Spanish, English and French 🇪🇸🇬🇧🇫🇷
-  </font size>
+  </font>
 
 
 
