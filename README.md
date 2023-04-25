@@ -7,7 +7,7 @@
   
 - 🥳 I’ve graduated for Adalab's Web Development Bootcamp.
 - 🔭 I’m working on an app that matches you with a rescue pup🐶 or kitten🐱
--     I work at NaevaTec as a front-end developer.
+- I work at NaevaTec as a front-end developer.
 - 🌱 I’m currently improving my Angular skills.
 - 📫 How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aleameliach) [![Gmail Badge](https://img.shields.io/badge/-Gmail-white?style=flat&logo=Gmail&logoColor=red)](mailto:ale.ameliach@gmail.com)
 - ⚡️ Fun fact: I speak Spanish, English and French 🇪🇸🇬🇧🇫🇷
