@@ -52,7 +52,7 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleameliach&hide=HTML,G-code,scss,css,objective-c,roff,tex,makefile&theme=radical&langs_count=8" alt="Top Langs"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleameliach&hide=G-code,css,objective-c,roff,tex,makefile&theme=radical&langs_count=8" alt="Top Langs"/>
 </a>
   
 <br>
