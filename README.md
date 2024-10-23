@@ -41,7 +41,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="50" height="50"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="Github" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-plain.svg" title="Vim" alt="Vim" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-plain.svg" title="Jira" alt="Jira" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" alt="Slack" width="50" height="50"/>&nbsp;
 </div>
 
